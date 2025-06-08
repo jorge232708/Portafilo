@@ -1,5 +1,5 @@
 # 🔥 Jorge Barbeito  
-### *Profesor de Matemáticas/Física • Desarrollador Junior • Diseñador UI/UX*  
+### *Profesor de Matemáticas/Física • Desarrollador Junior sólido • Diseñador UI/UX*  
 
 <div align="center">
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian">
@@ -45,11 +45,8 @@
 
 ## **📡 Contacto**  
 <div align="left">
-  <a href="mailto:jorgebarbeito@protonmail.com">
+  <a href="mailto:jjbarbeito1@protonmail.com">
     <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://linkedin.com/in/jorgebarbeito">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
 
