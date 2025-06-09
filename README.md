@@ -1,60 +1,45 @@
-# 🔥 Jorge Barbeito  
-### *Profesor de Matemáticas/Física • Desarrollador Junior sólido • Diseñador UI/UX*  
+🔥 Jorge Barbeito
+Profesor de Matemáticas/Física • Especialista en Vue + Vite + TypeScript • Diseñador UI/UX
+<div align="center"> <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"> </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
-</div>
+👁️‍🗨️ ¿Qué me hace diferente?
+📌 Domino Vue + Vite con TypeScript, aprovechando su rendimiento para crear experiencias fluidas y escalables. 🎨 Diseño interfaces intuitivas que combinan lógica matemática con estética funcional. 🚀 Optimizo cada línea de código, asegurando eficiencia y claridad en cada proyecto.
 
----
+🧠 Stack Clave
+Área	Tecnologías
+Frontend	Vue.js (Vite + TypeScript), Svelte, HTML5/CSS3
+Backend	Node.js (Express), Django REST Framework
+Diseño	Figma, Inkscape, GIMP, Canvas (UI/UX + Gráficos vectoriales)
+DevOps	Git, Bash, Debian Linux
+Bases de Datos	PostgreSQL, MySQL, SQLite - conocimientos básicos
+🛠️ Proyectos Destacados
+✅ Calculadora Vectorial (Vue + Vite + TypeScript + Python)
 
-## **👁️‍🗨️ ¿Qué me hace diferente?**  
-**Combino la precisión lógica de la física** con **la creatividad del diseño digital**, creando soluciones técnicas *estéticamente impecables*.  
+Implementación precisa con tipado estático.
 
-### **🧠 Stack Clave**  
-| **Área**       | **Tecnologías**                                                                 |
-|----------------|---------------------------------------------------------------------------------|
-| **Frontend**   | Vue.js (Vite), Svelte, HTML5/CSS3                                               |
-| **Backend**    | Node.js (Express), Django REST Framework                                        |
-| **Diseño**     | Figma, Inkscape, GIMP, Canvas (UI/UX + Gráficos vectoriales)                    |
-| **DevOps**     | Git, Bash, Debian Linux                                                         |
-| **Bases de Datos** | PostgreSQL, MySQL, SQLite     -conocimientos basicos-                       |
+40% más eficiente gracias a TypeScript y Vite.
 
----
+Diseño modular y optimizado para rendimiento en dispositivos móviles.
 
-## **🛠️ Proyectos Destacados**  
-1. **Calculadora Vectorial (Vue.js + Python)**  
-   - Interfaz intuitiva + backend matemático  
-   - *¿Resultado? 40% más rápida que soluciones tradicionales*  
+✅ Sistema de Gestión Escolar (Django REST + Vue + TypeScript)
 
-2. **Sistema de Gestión Escolar (Django REST + Vue)**  
-   - Automatización de calificaciones  
-   - Diseño UI enfocado en usabilidad docente  
+Backend estructurado con validaciones precisas en TypeScript.
 
-*(Más proyectos en mi [GitHub](https://github.com/jorge232708?tab=repositories)*
+Interfaz moderna y escalable con Vite.
 
----
+Optimización de datos para mejorar la velocidad de carga.
 
-## **🎯 Objetivos 2024**  
-- **Lanzar 3 proyectos open-source** (Herramientas educativas en TS)  
-- **Dominar Docker** para despliegues impecables  
-- **Colaborar con startups** que necesiten *lógica + diseño*  
+🔗 Explora mis proyectos en GitHub
 
----
+🎯 Objetivos 2024
+🎯 Lanzar 3 proyectos open-source enfocados en herramientas educativas con TypeScript. 🎯 Dominar Docker para despliegues más eficientes. 🎯 Colaborar con startups que buscan soluciones modernas con Vue + Vite + TypeScript.
 
-## **📡 Contacto**  
-<div align="left">
-  <a href="mailto:jjbarbeito1@protonmail.com">
-    <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email">
-  </a>
-</div>
+📡 Contacto
+✉️ Email: jjbarbeito1@protonmail.com
 
----
+💡 Código Filosófico
+> "Mi código no solo resuelve problemas, redefine la forma en que interactuamos con la tecnología. La lógica matemática y el diseño intuitivo en equilibrio perfecto."
 
-### **💡 Código Filosófico**  
-> *"Enseño matemáticas, diseño interfaces y programo en Linux. Mi mente es un *sandbox* donde la lógica y la creatividad colisionan... y el resultado siempre es elegante."*  
-
-```bash
+bash
 # ¿Quieres ver mi trabajo en acción?
-git clone https://github.com/jorgebarbeito/portafolio.git
+git clone https://github.com/jorgebarbeito/portafolio.git  
