@@ -1,0 +1,27 @@
+/* src/assets/base.css */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+   Aquí puedes añadir tus propios estilos CSS GLOBALES básicos si los necesitas,
+   después de las directivas de Tailwind. Por ejemplo, la fuente global del body.
+*/
+
+/* Asegura que html y body ocupen toda la altura y no tengan márgenes/paddings extra */
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%; /* Muy importante: asegura que ocupen el 100% de la altura del viewport */
+  width: 100%; /* Asegura que ocupen el 100% del ancho del viewport */
+  overflow-x: hidden; /* Evita scroll horizontal indeseado */
+  /* Si quieres aplicar una fuente global, hazlo aquí */
+  font-family: 'Inter', sans-serif; /* Ejemplo */
+}
+
+/* Opcional: Asegura que el #app div creado por Vue/Vite también ocupe el 100% */
+#app {
+    height: 100%;
+    width: 100%;
+}

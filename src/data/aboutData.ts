@@ -1,0 +1,12 @@
+// src/data/aboutData.ts
+
+export const aboutData = {
+  longBio: `Soy Jorge Barbeito, un arquitecto digital con una profunda pasión por la intersección de la física, las matemáticas y el desarrollo de software. Con una trayectoria de **30 años dedicados a la docencia**, he tenido el privilegio de formar mentes jóvenes y cultivar el pensamiento lógico y la resolución de problemas. Esta vasta experiencia en el aula me ha proporcionado una perspectiva única, la cual aplico con rigor y precisión a cada línea de código que escribo.
+
+  Mi viaje en el universo de la tecnología comenzó con **Linux Ubuntu 9.04 LTS**, un hito que no solo marcó mis inicios en el mundo de los sistemas operativos de código abierto, sino que también encendió una profunda y duradera pasión por **Debian**, la distribución que considero la columna vertebral de la estabilidad y la libertad digital. Desde entonces, he dedicado mi carrera a la creación de soluciones robustas y elegantes, con una meticulosa atención a la precisión y la lógica, fundamentos extraídos de mi formación en matemáticas y física.
+
+  Aunque hoy soy un **docente universitario jubilado**, mi energía y mi deseo de crear se mantienen intactos. Mi rol como **coordinador de extensión universitaria** me ha permitido seguir vinculado al ámbito académico, impulsando proyectos que conectan el conocimiento con la comunidad. Paralelamente, mi **amor por el diseño y desarrollo web** ha florecido, convirtiéndose en una segunda vocación que abordo con la misma pasión y dedicación que mi carrera docente. Veo cada sitio web, cada aplicación, como un sistema complejo donde la estética y la funcionalidad deben coexistir en perfecta armonía.
+
+  Soy desarrollador intermedio sólido en tecnologías web como Django-DRF-, Node.js, Vite+Vue.js y PHP. A nivel junior, domino Svelte, MariaDB, PostgreSQL y MongoDB, y mis diseños CSS son como mis lienzos con Canvas, Figma, Inkcapes, Gimp, esteticamente perfectos. Mi compromiso con las buenas prácticas es inquebrantable, garantizando código limpio, mantenible y escalable. Mi identificación por la etnia wayuú, de Maracaibo, Zulia, Venezuela, es una parte integral de mi identidad, aportando una perspectiva única a mi trabajo y a mi visión del mundo digital. Estoy constantemente explorando nuevas tecnologías y metodologías, asegurándome de que cada proyecto sea una obra de arte funcional y optimizada.
+  `,
+};
